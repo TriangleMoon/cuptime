@@ -83,7 +83,7 @@ img {
     height: 28px;
     color: #64099b;
     font-size: 12px;
-    background-image: url("/img/bag.svg");
+    background-image: url('/img/bag.svg');
     background-position: center;
     background-repeat: no-repeat;
     text-align: center;
@@ -98,7 +98,7 @@ img {
 .promo__container {
     padding-top: 210px;
     padding-bottom: 80px;
-    background-image: url("/img/bg-image.png");
+    background-image: url('/img/bg-image.png');
     background-position: right 113px bottom 0;
     background-repeat: no-repeat;
 }
@@ -204,12 +204,6 @@ img {
     align-items: center;
     gap: 50px;
 }
-
-.footer__menu-item {}
-
-.footer__menu-link {}
-
-.footer__info {}
 
 .footer__copyright {
     margin-bottom: 17px;
